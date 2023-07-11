@@ -1,0 +1,12 @@
+.button:hover {
+  background-color: #3bcef7;
+}
+.button:focus {
+  outline: none;
+}
+
+@media (prefers-color-scheme: light) {
+  .button {
+    background-color: #61dafb;
+  }
+}
